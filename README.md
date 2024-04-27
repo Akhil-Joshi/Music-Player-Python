@@ -1,2 +1,2 @@
-# Music-Player-Python
-Simple Python audio player using pygame and tkinter library.
+# Music-Players
+In this repo, simple audio players are coded in different programming languages.
